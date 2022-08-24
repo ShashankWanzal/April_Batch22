@@ -17,6 +17,8 @@ public class Drag_Droup
 		
 		WebDriver driver=new ChromeDriver();
 		
+		System.out.println("Hi batch");
+		
 		driver.get("https://demo.guru99.com/test/drag_drop.html");
 		
 		Thread.sleep(2000);
