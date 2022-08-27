@@ -20,7 +20,7 @@ public class Demo
 		
 		System.out.println("hello");
 		
-		System.out.println("Welcome to GitHub");
+		System.out.println("Welcome to GitHub new");
 		
 	}
 	
