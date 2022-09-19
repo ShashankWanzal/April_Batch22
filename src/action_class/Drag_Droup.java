@@ -13,7 +13,7 @@ public class Drag_Droup
 	{
 	
 		System.setProperty("webdriver.chrome.driver", 
-				"C:\\Users\\shash\\eclipse-workspace\\April_Batch2\\browser\\chromedriver.exe");
+				"C:\\Users\\chand\\git\\April_Batch22\\browser\\chromedriver.exe");
 		
 		WebDriver driver=new ChromeDriver();
 		
